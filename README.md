@@ -4,8 +4,8 @@
          width="45" /> I'm Sauvik Saha</h1>
          
 # 💫 About Me :
-I'm a 20 year old coding enthusiast with some knowledge in Apps and Websites!
-- 🔭 I’m currently working on Backend
+Coding Enthusiast • I buils Apps & Websites
+- 🔥 Full Stack Developer
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: Trust me I'm too bad at Time Management.
 

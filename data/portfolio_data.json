@@ -1,0 +1,43 @@
+{
+  "title": "SAUVIK SAHA",
+  "bio": "Full Stack Developer ▲",
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "iconUrl": "https://raw.githubusercontent.com/sauviksaha/sauviksaha/main/assets/svgs/linkedin.svg",
+      "link": "https://www.linkedin.com/in/sauviksaha"
+    },
+    {
+      "name": "GitHub",
+      "iconUrl": "https://raw.githubusercontent.com/sauviksaha/sauviksaha/main/assets/svgs/github.svg",
+      "link": "https://github.com/sauviksaha"
+    },
+    {
+      "name": "Instagram",
+      "iconUrl": "https://raw.githubusercontent.com/sauviksaha/sauviksaha/main/assets/svgs/instagram.svg",
+      "link": "https://www.instagram.com/sauv1k"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cab Booking App",
+      "description": "Navigate your way effortlessly through city streets with our intuitive cab booking app, where convenience meets reliability for a seamless journey from pick-up to drop-off.",
+      "url": ""
+    },
+    {
+      "title": "HR Management System",
+      "description": "Streamline your workforce with efficiency and precision through our Employee Management System, where organization meets optimization in every keystroke.",
+      "url": ""
+    },
+    {
+      "title": "Service Booking App",
+      "description": "Experience the ease of bringing services to your doorstep with our innovative app, simplifying home service bookings for a seamless and convenient lifestyle.",
+      "url": ""
+    },
+    {
+      "title": "Portfolio",
+      "description": "A portfolio web app where creativity converges with innovation, showcasing my diverse skills and passion for crafting memorable digital experiences.",
+      "url": ""
+    }
+  ]
+}

@@ -11,11 +11,6 @@
       "name": "GitHub",
       "iconUrl": "https://raw.githubusercontent.com/sauviksaha/sauviksaha/main/assets/svgs/github.svg",
       "link": "https://github.com/sauviksaha"
-    },
-    {
-      "name": "Instagram",
-      "iconUrl": "https://raw.githubusercontent.com/sauviksaha/sauviksaha/main/assets/svgs/instagram.svg",
-      "link": "https://www.instagram.com/sauv1k"
     }
   ],
   "projects": [
@@ -32,6 +27,11 @@
     {
       "title": "Service Booking App",
       "description": "Experience the ease of bringing services to your doorstep with our innovative app, simplifying home service bookings for a seamless and convenient lifestyle.",
+      "url": ""
+    },
+    {
+      "title": "Tattoo Shop Website",
+      "description": "Designed a functional frontend for a tattoo shop website, emphasizing simplicity and ease of use for a clean and accessible online presence.",
       "url": ""
     },
     {

@@ -15,18 +15,28 @@
   ],
   "projects": [
     {
-      "title": "Cab Booking App",
-      "description": "Navigate your way effortlessly through city streets with our intuitive cab booking app, where convenience meets reliability for a seamless journey from pick-up to drop-off.",
+      "title": "Motor Training School",
+      "description": "Developed a management system for a motor training school with multiple branches, user roles (Admin, Staff), courses, students, attendance, fees, expenses, categories, and cash journal reports. Integrated WhatsApp Business Cloud API and SMTP server for automatic messaging and email sending. Implemented session-based authentication with role-based access control, Server Actions, and React Query for the client side.",
       "url": ""
     },
     {
-      "title": "HR Management System",
-      "description": "Streamline your workforce with efficiency and precision through our Employee Management System, where organization meets optimization in every keystroke.",
+      "title": "Cab Booking Application",
+      "description": "Developed a cab booking app allowing users to book rides in real-time, with features such as ride tracking, payment gateway integration, and user authentication. Integrated Google Maps for navigation and location tracking, and Firebase for notifications and crash reporting.",
       "url": ""
     },
     {
-      "title": "Service Booking App",
-      "description": "Experience the ease of bringing services to your doorstep with our innovative app, simplifying home service bookings for a seamless and convenient lifestyle.",
+      "title": "E-commerce Application",
+      "description": "Built an e-commerce platform for tractor spare parts, featuring over 31K products. Migrated data from a Microsoft SQL Server (BUSY Accounting) to MySQL. Implemented image compression to optimize the website’s performance and improve the user experience.",
+      "url": ""
+    },
+    {
+      "title": "Medical Clinic App",
+      "description": "Created an app to manage medical staff attendance, real-time tracking, leaves, notices, push notifications, and reports, ensuring efficient staff management for the clinic.",
+      "url": ""
+    },
+    {
+      "title": "Employee Management App",
+      "description": "Developed an app to manage over 300 employees’ attendance, notifications, notices, push notifications, and reports for efficient employee management.",
       "url": ""
     },
     {
@@ -37,7 +47,7 @@
     {
       "title": "Portfolio",
       "description": "A portfolio web app where creativity converges with innovation, showcasing my diverse skills and passion for crafting memorable digital experiences.",
-      "url": "https://sauviksaha.web.app"
+      "url": ""
     }
   ]
 }

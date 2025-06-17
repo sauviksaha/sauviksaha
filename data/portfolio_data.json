@@ -17,7 +17,7 @@
     {
       "title": "Motor Training School",
       "description": "Developed a management system for a motor training school with multiple branches, user roles (Admin, Staff), courses, students, attendance, fees, expenses, categories, and cash journal reports. Integrated WhatsApp Business Cloud API and SMTP server for automatic messaging and email sending. Implemented session-based authentication with role-based access control, Server Actions, and React Query for the client side.",
-      "url": ""
+      "url": "https://amtschool.in"
     },
     {
       "title": "Cab Booking Application",
